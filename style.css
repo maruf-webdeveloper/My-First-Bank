@@ -16,3 +16,19 @@ body{
 #transaction-section{
     display: none;
 }
+.deposite{
+    background-color: tomato;
+}
+.withdraw{
+    background-color: turquoise;
+}
+.balance{
+    background-color: orange;
+}
+.status{
+    padding: 20px;
+    border-radius: 10px;
+}
+.status h5{
+    color: white;
+}
